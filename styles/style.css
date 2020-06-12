@@ -1,0 +1,41 @@
+html {
+    font-size: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: #3178FB;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 40px 40px 40px;
+    border: 2px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #3178FB;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+}
